@@ -4,10 +4,10 @@ The Missing content of https://www.linkedin.com/learning/wordpress-building-chil
 
 ## How to install the content:
 
-# in Local, create a new site with name topsy-turvy-cake-design.local
-# Make sure the Site Domain is 'topsy-turvy-cake-design.local'
-# Download and copy the wp-content from 'Ex_Files_WordPress_Building_Child_Themes_Starting_Site.zip' into your installation. 
-# Open Admin, then Tools, Import, Wordpress. Download the xml file from here and import it. 
+ * in Local, create a new site with name topsy-turvy-cake-design.local
+ * Make sure the Site Domain is 'topsy-turvy-cake-design.local'
+ * Download and copy the wp-content from 'Ex_Files_WordPress_Building_Child_Themes_Starting_Site.zip' into your installation. 
+ * Open Admin, then Tools, Import, Wordpress. Download the xml file from here and import it. 
 
 ## How to use another Site Domain
 
