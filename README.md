@@ -7,6 +7,6 @@ How to install the missing content of https://www.linkedin.com/learning/wordpres
  * in Local, create a new site with name topsy-turvy-cake-design.local
  * Make sure the Site Domain is 'topsy-turvy-cake-design.local'
  * Download and copy the wp-content from 'Ex_Files_WordPress_Building_Child_Themes_Starting_Site.zip' into your installation. 
- * Open Admin, then Tools, Import, Wordpress. Download the xml file from here and import it. Select 'Download and import file attachments'
+ * Open Admin, then Tools, Import, Wordpress. Download the file from [topsyturvycakedesign.WordPress.2021-06-07.xml](topsyturvycakedesign.WordPress.2021-06-07.xml) and import it. Select 'Download and import file attachments'
 
  
